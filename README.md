@@ -17,7 +17,7 @@ The goal is to compare their performance in handling basic Natural Language Proc
 
 ---
 
-## 📊 Evaluation Metrics
+##  Evaluation Metrics
 The models are evaluated using:
 - Accuracy
 - Precision
